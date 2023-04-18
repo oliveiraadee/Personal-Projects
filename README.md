@@ -1,6 +1,7 @@
 # Personal Projects
 
 ### [DataStructureJava](https://github.com/oliveiraadee/DataStructureJava)
+### [Email-Rest-Api](https://github.com/oliveiraadee/email-rest-api)
 ### [Ionic-ArcGIS-JS](https://github.com/oliveiraadee/Ionic-ArcGIS-JS)
 ### [MarioJS](https://github.com/oliveiraadee/mariojs)
 ### [Memogo](https://github.com/oliveiraadee/memogo)
